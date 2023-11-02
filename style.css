@@ -1,0 +1,25 @@
+.blue{
+    color: rgb(7, 118, 223);
+}
+.red{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 70px;
+}
+input{
+    height: 40px;
+    width: 400px;
+    border: 1px solid darkgray;
+    border-radius: 20px;
+}
